@@ -1,2 +1,2 @@
 # Personalized-Text-Recommendation-Model
-Creating a Personalized Text Recommendation System for accurate results according to individuals unique typing habits and enhancing their overall experience using Federated Learning. Maintaining Privacy Protection by using Federated Learning so that the user’s data never leaves the devices making it secure and private.
+The above code is an attempt to simulate the architecture of Federated Learning. A technique first used by google to maintain data privacy. In this technique the model gets trained without the data ever leaving the user's device. The code simulates the architecture by creating a server, clients, training the model and then implementing it to predict the next word for a text prediction model using RNN.  
